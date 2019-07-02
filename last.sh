@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://szerverlabor.hu/ - roland@szerverlabor.hu
 FILE="$1"
 
 if [ $# -eq 0 ]

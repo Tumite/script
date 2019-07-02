@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://szerverlabor.hu/ - roland@szerverlabor.hu
 echo -n "Enter a filename to see last modification time : "
 read fileName
  

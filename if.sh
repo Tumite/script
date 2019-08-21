@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 read -p "Kérlek adj meg egy 10-nél nagyobb számot: " input
 
